@@ -12,7 +12,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "24.2.1.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.166875296",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -43,7 +43,7 @@
     },
     "fileInfoCollection": [
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
         "testCaseId": "c076e3f6-49f5-4c3b-8fa0-ee9caff36843",
         "testCaseType": "TestCase",
         "fileName": "BL_Deleting Variant from Product Line.xaml"
